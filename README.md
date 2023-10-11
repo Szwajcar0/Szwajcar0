@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Igor Kowalski</h1>
 <h3 align="center">A passionate backend developer from Poland</h3>
+<img align="right" alt="coding" width="400" src="https://pl.pinterest.com/pin/108579041007003205/"
 
 - 🔭 I’m currently working on **Kotlin Clicker Game**
 
